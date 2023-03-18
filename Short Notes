@@ -1,0 +1,4 @@
+str.equals("") - Compare two Strings
+Math.PI            - Pi value in Java
+Math.sqrt(n)  - Prime Check
+String str = Integer.toBinaryString(x)
